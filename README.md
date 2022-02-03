@@ -3,10 +3,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23AF34C9&lines=I+love+python+and+greyhounds)](https://git.io/typing-svg)
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=%23AF34C9&lines=I+love+python+and+greyhounds"></a>
 </p>
+
+
+
+
 
 <!-- Social icons section -->
 <p align="center">
