@@ -26,7 +26,7 @@ I'm very creative and I have a project on neural networks and abstract art. I'm 
 <br>
 <br>
 
-### - Languages and Tools...
+### 🛠 Languages and Tools...
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -38,4 +38,4 @@ I'm very creative and I have a project on neural networks and abstract art. I'm 
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-### 🛠 Checkout My Projects 👇🏻
+### 👇🏻 Checkout My Projects 
