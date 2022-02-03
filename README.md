@@ -18,17 +18,15 @@ I'm very creative and I have a project on neural networks and abstract art. I'm 
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+- 🔭 &nbsp; I’m currently working on [**Keepler Data Tech**](https://keepler.io/)
+- 🌱 &nbsp; I’m currently learning Amazon Web Services
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/amandagcorell?tab=repositories)
+- 💬 &nbsp; Ask me about ANYTHING (data,code,travel,vans,music...), I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/amandagcorell/)
+- 📚 &nbsp; When I am free, I read books written by women
 
 <br>
 <br>
 
+### 🛠 Checkout My Projects:
 <a align="left" href="https://github.com/amandagcorell/When-neural-nets-becomes-sentiments-in-ART" title="Sentiments in ART"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amandagcorell&repo=When-neural-nets-becomes-sentiments-in-ART&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/amandagcorell/GLOBAL-Who_eats_the_food_we_grow" title="Food We Grow"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amandagcorell&repo=GLOBAL-Who_eats_the_food_we_grow&theme=react&border_color=61dafb&border_radius=10"></a>
