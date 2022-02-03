@@ -15,7 +15,7 @@ I'm very creative and I have a project on neural networks and abstract art. I'm 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xNuoUMEJCdVKVm7r2x/giphy.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/TObbUke0z8Mo/giphy.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
