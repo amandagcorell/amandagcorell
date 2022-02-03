@@ -15,7 +15,7 @@ I'm very creative and I have a project on neural networks and abstract art. I'm 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/xNuoUMEJCdVKVm7r2x/giphy.gif?cid=ecf05e47gcbzmn6e2mp6rva31shkc355e72bao2tu22b0w35&rid=giphy.gif&ct=g" width="360px"/>
   
 ### 🧐 More About Me:
 
