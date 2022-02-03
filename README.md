@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/amandagcorell"><img src="https://github.com/amandagcorell/amandagcorell/blob/main/images/cover.png" width="50%" height="50%"> </a>
+  <a href="https://github.com/amandagcorell"><img src="https://github.com/amandagcorell/amandagcorell/blob/master/images/cover.png" width="50%" height="50%"> </a>
 </p>
