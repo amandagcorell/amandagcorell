@@ -8,6 +8,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=%23AF34C9&lines=I+love+python,+dive+and+greyhounds"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/amandagcorell"><img src="https://github.com/amandagcorell/amandagcorell/blob/master/images/cover.png" width="50%" height="50%"> </a>
-</p>
+
+
+<a align="left" href="https://github.com/amandagcorell/When-neural-nets-becomes-sentiments-in-ART" title="Sentiments in ART"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amandagcorell&repo=When-neural-nets-becomes-sentiments-in-ART&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
