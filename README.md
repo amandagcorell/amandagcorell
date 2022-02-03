@@ -9,9 +9,6 @@
 </p>
 
 
-
-<a align="left" href="https://github.com/amandagcorell/When-neural-nets-becomes-sentiments-in-ART" title="Sentiments in ART"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amandagcorell&repo=When-neural-nets-becomes-sentiments-in-ART&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/amandagcorell/GLOBAL-Who_eats_the_food_we_grow" title="Food We Grow"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amandagcorell&repo=GLOBAL-Who_eats_the_food_we_grow&theme=react&border_color=61dafb&border_radius=10"></a>
-
 I am a Data Analyst / Python developer and I love programming and data management 💻. I studied a bootcamp and soon after I was the teacher 🤓. I'm a musician 🎸, I like scuba diving 🤿, travelling by van 🚘 and being with my greyhound 🐕. I have a colourful brain 🧠 and a lot of energy.
 I'm very creative and I have a project on neural networks and abstract art. I'm always on the rocket 🚀
 
@@ -33,3 +30,6 @@ I'm very creative and I have a project on neural networks and abstract art. I'm 
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 
 <br>
+
+
+<a align="left" href="https://github.com/amandagcorell/When-neural-nets-becomes-sentiments-in-ART" title="Sentiments in ART"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amandagcorell&repo=When-neural-nets-becomes-sentiments-in-ART&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/amandagcorell/GLOBAL-Who_eats_the_food_we_grow" title="Food We Grow"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=amandagcorell&repo=GLOBAL-Who_eats_the_food_we_grow&theme=react&border_color=61dafb&border_radius=10"></a>
