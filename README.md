@@ -4,10 +4,9 @@
 </h3>
 
 
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23AF34C9&lines=I+love+python+and+greyhounds)](https://git.io/typing-svg)
-
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23AF34C9&lines=I+love+python+and+greyhounds)](https://git.io/typing-svg)
+</p>
 
 <!-- Social icons section -->
 <p align="center">
