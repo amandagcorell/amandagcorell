@@ -2,7 +2,7 @@
 <h3 align="center">
   Welcome to Amanda G. Corell's profile!
 </h3>
-<img src="https://github.com/amandagcorell/amandagcorell/blob/master/images/carol-max.png" width="200">
+<img align="center"src="https://github.com/amandagcorell/amandagcorell/blob/master/images/carol-max.png" width="200">
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=%23AF34C9&lines=I+love+python,+dive+and+greyhounds"></a>
