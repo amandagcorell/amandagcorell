@@ -2,11 +2,13 @@
 <h3 align="center">
   Welcome to Amanda G. Corell's profile!
 </h3>
-<img align="left" src="https://github.com/amandagcorell/amandagcorell/blob/master/images/carol-max.png" width="200">
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=%23AF34C9&lines=I+love+python,+dive+and+greyhounds"></a>
 </p>
+
+<img align="left" src="https://github.com/amandagcorell/amandagcorell/blob/master/images/carol-max.png" width="200">
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
 
 I am a Data Analyst / Python developer and I love programming and data management 💻. I studied a bootcamp and soon after I was the teacher 🤓. I'm a musician 🎸 and scuba diver 🤿 and I love travelling by van 🚘 and being with my greyhound 🐕. I have a colourful brain 🧠 and a lot of energy.
 I'm very creative and I have a project on neural networks and abstract art. I'm always on the rocket 🚀
