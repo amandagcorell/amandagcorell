@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=%23AF34C9&lines=I+love+python,+dive+and+greyhounds"></a>
 </p>
 
-<img align="left" src="https://github.com/amandagcorell/amandagcorell/blob/master/images/carol-max.png" width="190">
+<img align="left" src="https://github.com/amandagcorell/amandagcorell/blob/master/images/carol-max.png" width="200">
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 
