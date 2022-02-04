@@ -5,7 +5,7 @@
 
 <h3 align="center">
   Welcome to Amanda G. Corell's profile!
-  <img src="https://github.com/amandagcorell/amandagcorell/blob/master/images/carol-max.png" width="28">
+  <img src="https://github.com/amandagcorell/amandagcorell/blob/master/images/carol-max.png" width="50">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
